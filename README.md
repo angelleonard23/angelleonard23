@@ -44,9 +44,13 @@ This repository documents the construction of a highly secure lab environment in
 ---
 
 ## 📫 Connect with me
-- **LinkedIn:** https://www.linkedin.com/in/angel-tudorescu-5a7877233/
-- **Email:** tudorescu2399@gmail.com
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-tudorescu-5a7877233/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tudorescu2399@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/tudorescu2399)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9fe52d?style=for-the-badge&logo=hack-the-box&logoColor=black)](https://app.hackthebox.com/users/3126601)
+
+---
 ---
 *"Security is not a product, but a process."*
 <!--
