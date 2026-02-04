@@ -1,19 +1,19 @@
-# 👋 Hallo, ich bin [Dein Name]
-### 🛡️ Angehender IT-Systemadministrator | Fokus auf Security & Virtualisierung
+# 👋 Hi, I'm Angel!
+### 🛡️ Aspiring IT System Administrator | Focus on Security & Virtualization
 
-Ich begeistere mich für den Aufbau sicherer Infrastrukturen und die Automatisierung von IT-Prozessen. Mein aktueller Fokus liegt auf der Absicherung von Netzwerken und dem Betrieb von hybriden Lab-Umgebungen.
+I am passionate about building secure infrastructures and automating IT processes. My current focus lies in network hardening and operating hybrid lab environments.
 
 ---
 
-## 🚀 Mein Top-Projekt: Enterprise Home Lab
-In diesem Projekt dokumentiere ich den Aufbau einer hochsicheren Laborumgebung in über 20 Phasen.
+## 🚀 Featured Project: Enterprise Home Lab
+This repository documents the construction of a highly secure lab environment in 20+ detailed phases.
 
 * **Hypervisor:** Proxmox VE
-* **Netzwerk:** pfSense mit VLAN-Segmentierung & Suricata IDS/IPS
-* **Security:** Host-Hardening, Zentrales Logging (SIEM), Vulnerability Scanning
-* **Automatisierung:** Ansible & Docker Compose
+* **Networking:** pfSense with VLAN Segmentation & Suricata IDS/IPS
+* **Security:** Host Hardening, Centralized Logging (SIEM), Vulnerability Scanning
+* **Automation:** Ansible & Docker Compose
 
-👉 **[HIER KLICKEN: Zum Home-Lab Repository](Link-zu-deinem-Repository-einfügen)**
+👉 **[CLICK HERE: To the Home Lab Repository](https://github.com/angelleonard23/Project-HomeLab-Proxmox-Lab)**
 
 ---
 
@@ -22,33 +22,33 @@ In diesem Projekt dokumentiere ich den Aufbau einer hochsicheren Laborumgebung i
 ### 🌐 Networking & Security
 ![pfSense](https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B24?style=for-the-badge&logo=suricata&logoColor=white)
-![Firewall](https://img.shields.io/badge/VLAN_Segmentierung-blue?style=for-the-badge)
+![Firewall](https://img.shields.io/badge/VLAN_Segmentation-blue?style=for-the-badge)
 
-### 🐧 Linux & Virtualisierung
+### 🐧 Linux & Virtualization
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### 🐳 DevOps & Automatisierung
+### 🐳 DevOps & Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 Was ich gerade lerne / vertiefe:
-- **SIEM-Systeme:** Korrelation von Logs zur Angriffserkennung.
-- **Infrastructure as Code:** Komplette Lab-Deployments via Ansible.
-- **Advanced Hardening:** Kernel-Optimierung und Compliance-Audits.
+## 📊 Currently Learning / Deepening:
+- **SIEM Systems:** Correlating logs for threat detection.
+- **Infrastructure as Code (IaC):** Full lab deployments via Ansible.
+- **Advanced Hardening:** Kernel optimization and Compliance Audits.
 
 ---
 
-## 📫 Kontakt
-- **LinkedIn:** [Dein Profil-Link]
-- **E-Mail:** [Deine E-Mail Adresse]
+## 📫 Connect with me
+- **LinkedIn:** https://www.linkedin.com/in/angel-tudorescu-5a7877233/
+- **Email:** tudorescu2399@gmail.com
 
 ---
-*„Sicherheit ist kein Zustand, sondern ein Prozess.“*
+*"Security is not a product, but a process."*
 <!--
 **angelleonard23/angelleonard23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
