@@ -50,9 +50,9 @@ This repository documents the construction of a highly secure lab environment in
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/tudorescu2399)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9fe52d?style=for-the-badge&logo=hack-the-box&logoColor=black)](https://app.hackthebox.com/users/3126601)
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/DEIN_USER_NAME.png)]
 ---
 ---
-*"Security is not a product, but a process."*
 <!--
 **angelleonard23/angelleonard23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
