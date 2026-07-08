@@ -10,11 +10,11 @@ I specialize in architecting secure, automated infrastructures. My work bridges 
 ### 🏗️ [Project: Enterprise Home Lab Infrastructure](https://github.com/angelleonard23/Project-HomeLab-Proxmox-Lab)
 The backbone of my operations. A 20-phase blueprint for a high-availability Proxmox environment.
 * **Core:** Proxmox VE, pfSense, VLAN Segmentation (Management, Web, AI-Ops, VPN).
-* **Security:** Suricata IDS/IPS, WireGuard (Zero-Trust Access), Wazuh SIEM integration.
 
 ### 🧠 [Project: AI-Ops Laboratory Infrastructure](https://github.com/angelleonard23/Project-HomeLab-AI-Ops-Laboratory-Infrastructure)
 Scaling infrastructure for AI workloads. This repo documents the deployment of dedicated Ubuntu nodes within the Proxmox cluster.
 * **Focus:** Resource orchestration for LLMs, specialized VLAN (VLAN 30) for AI-Ops, and Proxmox/Terraform integration.
+* **Security:** Suricata IDS/IPS, WireGuard (Zero-Trust Access), Wazuh SIEM integration.
 
 ### 🤖 [The AI-Stack: Automation & LLMs](https://github.com/angelleonard23/homelab-ai-stack)
 Where the intelligence lives. A modular stack for self-hosted AI services and workflow automation.
